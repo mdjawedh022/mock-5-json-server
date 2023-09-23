@@ -1,107 +1,148 @@
 {
   "chocolates": [
     {
+      "id":1,
+      "qty":1,
       "image": "https://plus.unsplash.com/premium_photo-1663853120633-71b80c02e7bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FuZHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
       "name": "Dark Chocolate Bar",
       "price": 2.99
     },
     {
+      "id":2,
+      "qty":1,
       "image": "https://images.unsplash.com/photo-1575224300306-1b8da36134ec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FuZHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1000&q=60",
       "name": "Milk Chocolate Truffles",
       "price": 4.49
     },
     {
+      "id":3,
+      "qty":1,
       "image": "https://media.istockphoto.com/id/936642974/photo/dark-chocolate-on-wood.webp?b=1&s=170667a&w=0&k=20&c=Zu0iHl8uRiffrXS5frzGesxQSevFHq_Jb10zjapEE-c=",
       "name": "White Chocolate Bark",
       "price": 3.79
     },
     {
+      "id":4,
+      "qty":1,
       "image": "https://images.unsplash.com/photo-1499195333224-3ce974eecb47?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2FuZHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1000&q=60",
       "name": "Caramel-filled Chocolate Hearts",
       "price": 5.99
     },
     {
+      "id":5,
+      "qty":1,
       "image": "https://images.unsplash.com/photo-1514517521153-1be72277b32f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2FuZHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1000&q=60",
       "name": "Hazelnut Praline Bonbons",
       "price": 4.99
     },
     {
+      "id":6,
+      "qty":1,
       "image": "https://plus.unsplash.com/premium_photo-1676813494122-8fa4a959de70?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2FuZHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1000&q=60",
       "name": "Raspberry Dark Chocolate Squares",
       "price": 3.29
     },
     {
+      "id":7,
+      "qty":1,
       "image": "https://images.unsplash.com/photo-1571506165871-ee72a35bc9d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y2FuZHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1000&q=60",
       "name": "Mint Chocolate Crunch",
       "price": 3.99
     },
     {
+      "id":8,
+      "qty":1,
       "image": "https://images.unsplash.com/photo-1567653418876-5bb0e566e1c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y2FuZHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1000&q=60",
       "name": "Toffee Almond Clusters",
       "price": 6.49
     },
     {
+      "id":9,
+      "qty":1,
       "image": "https://images.unsplash.com/photo-1581798269145-7512508289b9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNhbmR5fGVufDB8fDB8fHww&auto=format&fit=crop&w=1000&q=60",
       "name": "Coconut Milk Chocolate",
       "price": 4.79
     },
     {
+      "id":10,
+      "qty":1,
       "image": "https://media.istockphoto.com/id/531255663/photo/holy-mother-of-chocolate.webp?b=1&s=170667a&w=0&k=20&c=pgZ1KpZ3cfZBZm8_ZGqiK1G3zc6-8Ark8xUpYbJ6cqU=",
       "name": "Peanut Butter Cups",
       "price": 3.49
     },
     {
+      "id":11,
+      "qty":1,
       "image": "https://plus.unsplash.com/premium_photo-1673138254250-a66ba99319b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RGFyayUyMENob2NvbGF0ZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1000&q=60",
       "name": "Cherry Cordial Chocolates",
       "price": 5.29
     },
     {
+      "id":12,
+      "qty":1,
       "image": "https://images.unsplash.com/photo-1523035274455-b2e5c6d5c2e0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8RGFyayUyMENob2NvbGF0ZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1000&q=60",
       "name": "Cappuccino Chocolate Truffles",
       "price": 4.99
     },
     {
+      "id":13,
+      "qty":1,
       "image": "https://images.unsplash.com/photo-1610450949065-1f2841536c88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8RGFyayUyMENob2NvbGF0ZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1000&q=60",
       "name": "Orange Creamsicle Chocolate",
       "price": 3.69
     },
     {
+      "id":14,
+      "qty":1,
       "image": "https://images.unsplash.com/photo-1586400928533-da0dbdca07fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8RGFyayUyMENob2NvbGF0ZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1000&q=60",
       "name": "Salted Caramel Dark Chocolate",
       "price": 5.49
     },
     {
+      "id":15,
+      "qty":1,
       "image": "https://images.unsplash.com/photo-1604514813560-1e4f5726db65?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8RGFyayUyMENob2NvbGF0ZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1000&q=60",
       "name": "Pecan Praline Milk Chocolate",
       "price": 4.99
     },
     {
+      "id":16,
+      "qty":1,
       "image": "https://images.unsplash.com/photo-1601876819169-9ddf6f214a47?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fERhcmslMjBDaG9jb2xhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1000&q=60",
       "name": "Chili Pepper Dark Chocolate",
       "price": 3.79
     },
     {
+      "id":17,
+      "qty":1,
       "image": "https://images.unsplash.com/photo-1601574494033-3c8800d80864?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fERhcmslMjBDaG9jb2xhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1000&q=60",
       "name": "Almond Joyful Delight",
       "price": 5.79
     },
     {
+      "id":18,
+      "qty":1,
       "image": "https://plus.unsplash.com/premium_photo-1670426501227-450cb0d92a16?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fERhcmslMjBDaG9jb2xhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1000&q=60",
       "name": "Blueberry White Chocolate",
       "price": 4.49
     },
     {
+      "id":19,
+      "qty":1,
       "image": "https://images.unsplash.com/photo-1591754550580-890a9016b687?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fERhcmslMjBDaG9jb2xhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1000&q=60",
       "name": "Cookies and Cream Bonbons",
       "price": 3.99
     },
     {
+      "id":20,
+      "qty":1,
       "image": "https://media.istockphoto.com/id/810974322/photo/stack-of-chocolate-bars.webp?b=1&s=170667a&w=0&k=20&c=USLHd5OrWhinYMbMzuMeLeK-Lg8cKhnLaC2IujrbgVI=",
       "name": "Pistachio Milk Chocolate",
       "price": 5.99
+      
     }
   ],
   "cart":[
-    
+
   ]
 }
